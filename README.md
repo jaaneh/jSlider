@@ -9,9 +9,10 @@
 Latest release: **v1.0**<br>
 You can download the latest release from our [releases tab.](https://github.com/jaaneh/jSlider/releases)
 
-You can also clone this repo to download. The latest release is always inside the _dist_ directory.
+You can also clone this repo to download the latest jSlider version.<br>
+`git clone https://github.com/jaaneh/jSlider.git`
 
-# How to use
+## How to use
 
 ```html
 <!-- Place your images inside the #slider div as shown. -->
